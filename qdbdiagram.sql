@@ -15,8 +15,8 @@ hire_date date
 
 Dept_mamanger
 ---
-emp_no PK int FK >- Employees.emp_no
-dept_no PK varchar FK >- departments.dept_no
+dept_no VARHCAR FK >- departments.dept_no
+emp_no INT FK >- Employees.emp_no
 
 titles
 ---
